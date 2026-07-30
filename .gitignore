@@ -1,3 +1,25 @@
+# ==========================
+# Project-specific
+# ==========================
+
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained models
+results/models/*
+
+# Generated figures (optional)
+# results/figures/*
+
+# macOS
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
