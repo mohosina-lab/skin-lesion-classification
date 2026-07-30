@@ -10,8 +10,11 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# Trained models
+# Ignore generated models
 results/models/*
+
+# But keep the placeholder
+!results/models/.gitkeep
 
 # Generated figures (optional)
 # results/figures/*
