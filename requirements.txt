@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.3.1
+matplotlib==3.10.5
+seaborn==0.13.2
+scikit-learn==1.7.1
+scikit-image==0.25.2
+opencv-python==4.11.0.86
+medmnist==3.0.2
+jupyter==1.1.1
+notebook==7.4.5
+xgboost==3.0.4
