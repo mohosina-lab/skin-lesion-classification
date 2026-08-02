@@ -114,7 +114,7 @@ Feature extraction and model training are currently under development.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/skin-lesion-classification.git
+git clone https://github.com/mohosina-lab/skin-lesion-classification.git
 
 cd skin-lesion-classification
 
